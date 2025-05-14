@@ -1,4 +1,4 @@
-# R_Pejuca
+# Prophet Remodel
 Repositório para armazenas minha tentativa de replicar a eficiêcia da biblioteca Prophet no Python partindo da referência do próprio paper de publicação do modelo
 https://facebook.github.io/prophet/static/prophet_paper_20170113.pdf?utm_source=chatgpt.com
 
